@@ -23,3 +23,9 @@ Descripción: En esta materia hemos visto los conceptos básicos de la cibersegu
 Docente: Rogelio Trejo Perez 
 
 Descripción: En esta materia hemos visto los tipos de números, los cortes de dedekind , resolución de ecuaciones , la recta, la parábola, derivadas e integrales.
+
+## Programación 1
+
+Docente: Jonathan Ulises Miranda Charles 
+
+Descripción: En esta materia hemos visto el lenguaje md así como el manejo de git y github. 
