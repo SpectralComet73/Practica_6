@@ -4,4 +4,4 @@ Carlos Alexis Rendon Sierra
 
 Docente: Rebeca Rodriguez 
 
-Descripcion: En esta materia hemos visto la historia de las computadoras , del internet , componentes fisicos de las computadoras , caracteristicas de los sistemas operativos mas importantes y los protocolos TCP/IP y OSI.
+En esta materia hemos visto la historia de las computadoras , del internet , componentes físicos de las computadoras , características de los sistemas operativos más importantes y los protocolos TCP/IP y OSI.
