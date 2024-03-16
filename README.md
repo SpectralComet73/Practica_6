@@ -17,3 +17,9 @@ Descripción: En esta materia hemos visto la historia de las computadoras , del 
 Docente: Cynthia Alejandra Jiménez García 
 
 Descripción: En esta materia hemos visto los conceptos básicos de la ciberseguridad , la jerarquía de puestos relacionados con la ciberseguridad , fabricantes de software , la importancia de la ciberseguridad hoy en día y el framework NIST.
+
+## Matemáticas 1
+
+Docente: Rogelio Trejo Perez 
+
+Descripción: En esta materia hemos visto los tipos de números, los cortes de dedekind , resolución de ecuaciones , la recta, la parábola, derivadas e integrales.
