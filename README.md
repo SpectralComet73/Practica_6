@@ -36,3 +36,6 @@ Creando la versión 1.0.0 de este repositorio.
 
 ---
 Creando la versión 1.1.0 de este repositorio.
+
+Enlace al documento de la práctica 8
+  - [Ir al documento práctica 8](practica-8.md)
