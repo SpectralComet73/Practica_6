@@ -33,3 +33,6 @@ Descripción: En esta materia hemos visto el lenguaje md así como el manejo de 
 
 ---
 Creando la versión 1.0.0 de este repositorio.
+
+---
+Creando la versión 1.1.0 de este repositorio.
