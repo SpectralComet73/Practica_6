@@ -29,3 +29,7 @@ Descripción: En esta materia hemos visto los tipos de números, los cortes de d
 Docente: Jonathan Ulises Miranda Charles 
 
 Descripción: En esta materia hemos visto el lenguaje md así como el manejo de git y github. 
+
+
+---
+Creando la versión 1.0.0 de este repositorio.
