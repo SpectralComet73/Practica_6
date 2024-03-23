@@ -1,0 +1,93 @@
+commit 48c807afcfc3e404895ad60c67f09d9b4ba42f92
+Merge: 0b413f4 16f756d
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:52:28 2024 -0600
+
+    programacion_1_agregada
+
+commit 0b413f442f5f41b74ee7fae563f9a16cccad8ec0
+Merge: 3022fc0 9c85938
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:51:35 2024 -0600
+
+    matematicas_1_agregada
+
+commit 3022fc01f2ed2402491690d530d8c9058e7dfff0
+Merge: 20c6ff9 54201c5
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:50:39 2024 -0600
+
+    introduccion_a_la_cibserguridad_agregada
+
+commit 20c6ff9932190d29db68829f5610fc1d178ea521
+Merge: 3471d6f e23333d
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:49:09 2024 -0600
+
+    algebra_y_fundamentos_de_las_computadoras
+
+commit 16f756dc90be26ed9e5671eb4a2307516c8daf26
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:43:43 2024 -0600
+
+    programacion_1
+
+commit 54201c52061a17b0e28e002f6b276af75884e7e2
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:13:16 2024 -0600
+
+    introduccion_a_la_ciberseguridad
+
+commit 3471d6f65bcdff0788677accfa1dd6481e0f367e
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:05:10 2024 -0600
+
+    algebra
+
+commit e23333d21c4a8e14851066a1dfa8f53937ba97f3
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:04:33 2024 -0600
+
+    fundamentos_de_las_computadoras
+
+commit 9c859387125f6c7b236cfddb1c0b59ea5d9b734c
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 09:03:35 2024 -0600
+
+    matematicas_1
+
+commit 9ab5492efb9d2234203334df1b2164ba4ff1e590
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 08:53:53 2024 -0600
+
+    algebra
+
+commit 08ec79a2313fe50c5c65f57ee3824d487372cc6d
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 08:53:21 2024 -0600
+
+    fundamentos_de_las_computadoras
+
+commit 215587ccef09e8d266772a37471aeaff82157a73
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 08:51:14 2024 -0600
+
+    introduccion_a_la_ciberseguridad
+
+commit 897de2d8f884c9abaf59eb80194dceb4ac8ce53e
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 08:45:53 2024 -0600
+
+    fundamentos_de_las_computadoras
+
+commit 663abe123d5783824472b66e7c19c9c2d602baf9
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 08:41:37 2024 -0600
+
+    Algebra
+
+commit 60351409833345df7ae558f964abe186eac72a9d
+Author: Carlos Alexis Rendon Sierra <carlosbatman2012@gmail.com>
+Date:   Sat Mar 16 08:21:54 2024 -0600
+
+    Primer commit
